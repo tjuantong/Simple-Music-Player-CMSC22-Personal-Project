@@ -32,6 +32,6 @@ The simple music player is a command-line program which is coded through the use
       - Consistency in indention of codes also applies for adding elements in a collection
       - Provided brackets in conditional statements
 * Used switch cases and provided a default when user input doesn’t satisfy any of the cases, instead of numerous if-else if statements for commands of the music player which provided neater look and code readability.Used ArrayList to provide more flexibility on the elements that the user will input for the playlist.
-* Classified the class variables in terms of visibility.`
+* Classified the class variables in terms of visibility.
 * Setting variable names in a short but descriptive manner for easier comprehension.
 * Handle exceptions that might be thrown and customize its message to prompt the user of the problem.
